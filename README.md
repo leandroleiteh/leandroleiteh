@@ -19,6 +19,6 @@ Prestes ao término do meu tecnólogo em Análise e desenvolvimento de sistemas,
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h3 align="left">Conecte-se comigo:</h3>
-<a href="mailto:leandroluz@uni9.edu.br"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+
 <a href="https://www.linkedin.com/in/leandroleite-ti"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://www.instagram.com/leandroleiteh"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
