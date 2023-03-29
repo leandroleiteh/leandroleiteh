@@ -20,3 +20,4 @@ Prestes ao término do meu tecnólogo em Análise e desenvolvimento de sistemas,
 
 <h3 align="left">Conecte-se comigo:</h3>
 <a href="https://linkedin.com/in/leandroleite-ti" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /> </a>
+<a href="https://www.instagram.com/leandroleiteh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="devesh-kumar-singh-b43580136" height="30" width="40" /> </a>
