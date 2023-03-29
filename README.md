@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-# 💫 Sobre mim:
+# 👨‍💻 Sobre mim:
 Me especializar cada vez mais em Desenvolvimento de sistemas, tem sido meu grande objetivo profissional. Apaixonado pela tecnologia, continuo a construir meus conhecimentos em bases sólidas.
 
 Prestes ao término do meu tecnólogo em Análise e desenvolvimento de sistemas, continuo estudando e adquirindo conhecimentos em diversas tecnologias, para utilizar profissionalmente e em meus projetos.
