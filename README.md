@@ -3,7 +3,8 @@
 # 👨‍💻 Sobre mim:
 Me especializar cada vez mais em Desenvolvimento de sistemas, tem sido meu grande objetivo profissional. Apaixonado pela tecnologia, continuo a construir meus conhecimentos em bases sólidas.
 
-Prestes ao término do meu tecnólogo em Análise e desenvolvimento de sistemas, continuo estudando e adquirindo conhecimentos em diversas tecnologias, para utilizar profissionalmente e em meus projetos.
+Prestes ao término do meu tecnólogo em Análise e desenvolvimento de sistemas, continuo estudando e adquirindo conhecimentos em diversas vertentes: Java, Hibernate, Spring (Spring Boot, JPA, WEB, Security, Cloud), Docker, Linux, MongoDB, PostgreSQL, MySQL, Angular, AWS, Azure, Google Cloud Plataform, Maven, Gradle, Bootstrap, TypeScript, HTML, CSS, API Rest entre outras.
+
 
 ![center](https://komarev.com/ghpvc/?username=leandroleiteh&color=447ff7&label=Visitor+count)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
