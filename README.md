@@ -1,9 +1,13 @@
 
 
 # 👨‍💻 Sobre mim:
-Me especializar cada vez mais em Desenvolvimento de sistemas, tem sido meu grande objetivo profissional. Apaixonado pela tecnologia, continuo a construir meus conhecimentos em bases sólidas.
+Desenvolvedor Backend Java com 3 anos de experiência na construção e manutenção de aplicações escaláveis e soluções robustas. 
 
-Prestes ao término do meu tecnólogo em Análise e desenvolvimento de sistemas, continuo estudando e adquirindo conhecimentos em diversas vertentes: Java, Hibernate, Spring (Spring Boot, JPA, WEB, Security, Cloud), Docker, Linux, MongoDB, PostgreSQL, MySQL, Angular, AWS, Azure, Google Cloud Plataform, Maven, Gradle, Bootstrap, TypeScript, HTML, CSS, API Rest entre outras.
+Experiente com Java e Spring (Spring Boot, JPA, Security, Cloud), com conhecimento em Quarkus, Kafka, RabbitMQ, Docker, Linux, MongoDB, Redis, PostgreSQL, AWS e Oracle Cloud. 
+
+Proativo e sempre em busca de novas tecnologias para aprimorar minhas habilidades técnicas. Membro ativo da comunidade SouJava e participante regular de meetups e eventos de tecnologia, focado em networking e compartilhamento de conhecimentos. 
+
+Atualmente, coordeno uma comunidade de quase 40 desenvolvedores, promovendo semanalmente discussões sobre as últimas tendências e boas práticas no desenvolvimento de software.
 
 
 ![center](https://komarev.com/ghpvc/?username=leandroleiteh&color=447ff7&label=Visitor+count)
